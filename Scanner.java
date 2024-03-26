@@ -1,15 +1,11 @@
-/**
- * Ariya Tangrojanakul
- * 6609520105
- */
-import java.util.BasicMathods ;
+import java.util.Scanner;
 
 public class RomanNumberConverter {
     public static void main(String[] args) {
-        BasicMathods basicmathods = new BasicMathods(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.print("Input the Roman number: ");
-        String input = basicmathods.nextLine();
-        basicmathods.close();
+        String input = scanner.nextLine();
+        scanner.close();
         convertRomanNumber(input);
     }
 
