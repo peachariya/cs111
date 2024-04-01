@@ -14,22 +14,22 @@ public class ConvertRoman {
   public static void romanToNumber(String roman) {
     switch (roman) {
       case "I":
-        System.err.println("thid is One");
+        System.err.println("this is One");
         break;
       case "II":
-        System.err.println("thid is Two");
+        System.err.println("this is Two");
         break;
       case "III":
-        System.err.println("thid is Three");
+        System.err.println("this is Three");
         break;
       case "IV":
-        System.err.println("thid is Four");
+        System.err.println("this is Four");
         break;
       case "V":
-        System.err.println("thid is Five");
+        System.err.println("this is Five");
         break;
       case "VI":
-        System.err.println("thid is Six");
+        System.err.println("this is Six");
         break;
       default:
         System.err.println("Unknown Number");
