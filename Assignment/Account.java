@@ -1,6 +1,6 @@
 /**
- *  name    :
- *  stdid   :
+ *  name    :Ariya Tangrojanakul
+ *  stdid   :6609520108
  */
 public class Account {
 
